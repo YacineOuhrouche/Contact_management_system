@@ -1,0 +1,3 @@
+The Contact Management System is a streamlined application that allows users to manage their contacts efficiently. It is built to help individuals and businesses store, retrieve, and update contact details, making communication and organization more seamless.
+
+![Screenshot 2025-01-16 173637](https://github.com/user-attachments/assets/e7494ac2-d9fe-463e-a1fc-e763c1e4a4a7)
